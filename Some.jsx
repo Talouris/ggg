@@ -1,5 +1,19 @@
 'use client';
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 import "./_Header.scss";
 import "../_Breadcrums.scss";
 import Image from "next/image";
